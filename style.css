@@ -1,0 +1,55 @@
+#nome{
+    font-family:sans-serif;
+    text-align: center;
+  }
+
+  .descricoes{
+    font-family: monospace;
+    font-size: 40px;
+    position:relative;
+    top: 20%;
+    right: 4%;
+    text-align: center;
+    
+  }
+
+
+  #descricao{
+      text-align: center;
+      font-size: 40px;
+  }
+
+
+
+  body{
+    background-color:rgb(174, 241, 243);
+    padding: 3%;
+  }
+  
+
+
+  .destaque-texto{
+    font-family: fantasy;
+    color: rgb(12, 72, 184);
+  }
+
+  #lista-habilidades{
+    font-size: 30px;
+    font-family: sans-serif;
+  }
+  
+  #minha-foto{
+    float: left;
+    height: 380px;
+    padding: 10px;
+    background-color: indianred;
+  }
+
+  .image-container{
+    height: 400px;
+    position: relative;
+  }
+
+  div {
+      border: 2px solid green;
+  }
